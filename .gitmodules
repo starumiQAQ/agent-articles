@@ -1,0 +1,3 @@
+[submodule "Agent-Learning-Hub"]
+	path = Agent-Learning-Hub
+	url = https://github.com/starumiQAQ/Agent-Learning-Hub.git
