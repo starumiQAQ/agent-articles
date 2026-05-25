@@ -8,6 +8,7 @@
 |------|------|------|------|
 | 2024-12-19 | Building Effective Agents | Anthropic | 中文翻译 |
 | 2026 | A Practical Guide to Building Agents | OpenAI | 中文翻译 |
+| 2026 | Function Calling | OpenAI | 中文翻译 |
 
 ## 目录
 
@@ -20,3 +21,5 @@
 
 - [A Practical Guide to Building Agents（构建智能体实用指南）](./openai/a-practical-guide-to-building-agents.md) — 2026
   - 智能体定义、何时构建智能体、智能体设计基础（模型/工具/指令/循环）、多智能体系统模式、护栏与安全
+- [Function Calling（函数调用）](./openai/function-calling.md) — 2026
+  - 函数调用工作原理、定义函数与命名空间、处理函数调用、严格模式、流式处理、自定义工具与 CFG 语法

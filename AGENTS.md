@@ -11,7 +11,8 @@ agent-articles/
 ├── anthropic/             ← Anthropic 文章
 │   └── building-effective-agents.md
 ├── openai/                ← OpenAI 文章
-│   └── a-practical-guide-to-building-agents.md
+│   ├── a-practical-guide-to-building-agents.md
+│   └── function-calling.md
 └── ...                    ← 未来新增来源方目录
 ```
 
